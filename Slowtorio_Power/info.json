@@ -1,0 +1,9 @@
+{
+    "name": "Slowtorio_Power",
+    "version": "1.0.0",
+    "title": "Slowtorio_Power",
+    "author": "JD",
+    "description": "Reduces the maximum output of all energy sources to 1% of their default value.",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Slowtorio_Pollution",
+    "version": "1.0.0",
+    "title": "Slowtorio_Pollution",
+    "author": "JD",
+    "description": "Increases pollution creation.",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"]
+}

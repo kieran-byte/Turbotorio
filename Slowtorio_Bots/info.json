@@ -1,0 +1,9 @@
+{
+  "name": "Slowtorio_Bots",
+  "version": "1.0.0",
+  "title": "Slowtorio_Bots",
+  "author": "JD",
+  "description": "Sets logistics robots to move at 10% of their usual speed and use 10% of their usual energy consumption per move and per tick.",
+  "factorio_version": "1.1",
+  "dependencies": []
+}

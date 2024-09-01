@@ -1,0 +1,9 @@
+{
+  "name": "Slowtorio_Belts",
+  "version": "1.0.0",
+  "title": "Slowtorio_Belts",
+  "author": "JD",
+  "description": "Sets the speed of all belts and splitters, including underground belts, to 20% of their normal speed.",
+  "factorio_version": "1.1",
+  "dependencies": ["base"]
+}

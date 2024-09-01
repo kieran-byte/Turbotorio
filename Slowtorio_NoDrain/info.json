@@ -1,0 +1,9 @@
+{
+  "name": "Slowtorio_NoDrain",
+  "version": "1.0.0",
+  "title": "Slowtorio_NoDrain",
+  "author": "JD",
+  "description": "Sets the minimum energy consumption (idle energy drain) of all entities to 0.",
+  "factorio_version": "1.1",
+  "dependencies": ["base"]
+}

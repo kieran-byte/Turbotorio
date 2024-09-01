@@ -1,0 +1,9 @@
+{
+    "name": "Slowtorio_AnimationSpeed",
+    "version": "1.0.0",
+    "title": "Slowtorio_AnimationSpeed",
+    "author": "JD",
+    "description": "Increases the animation speed of assemblers.",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"]
+}

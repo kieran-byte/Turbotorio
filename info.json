@@ -1,0 +1,9 @@
+{
+    "name": "Turbotorio",
+    "version": "1.0.5",
+    "title": "Turbotorio",
+    "author": "JD",
+    "description": "HAVEYOUEVERWANTEDTOGOFASTLIKESUPERSUPERSUPERSUPERFAST?WELLIFYOUWANNAGOFASTYOUNEEDTURBOTORIO",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"]
+}

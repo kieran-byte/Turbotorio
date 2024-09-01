@@ -1,0 +1,9 @@
+{
+    "name": "Slowtorio_RawMaterialSpeed",
+    "version": "1.0.0",
+    "title": "Slowtorio_RawMaterialSpeed",
+    "author": "[YourName]",
+    "description": "Reduces the mining speed of all raw materials, including trees and oil, to 10% of their default value.",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"]
+}

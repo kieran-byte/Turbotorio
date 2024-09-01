@@ -1,0 +1,8 @@
+require("Slowtorio_AnimationSpeed.data")
+require("Slowtorio_Belts.data")
+require("Slowtorio_Bots.data")
+require("Slowtorio_CraftSpeed.data")
+require("Slowtorio_InserterSpeed.data")
+require("Slowtorio_Power.data")
+require("Slowtorio_RawMaterialSpeed.data")
+require("Turbotorio_Pollution.data")
